@@ -1,3 +1,6 @@
+# Datenimport
+# Folien: https://jobreu.github.io/tidyverse-workshop-esra-2021/slides/02_Data_Import.html
+
 library(tidyverse)
 
 # Klartext-Dateien CVS, TSV, etc. mit readr (Teil von Tidyverse)
